@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DGA Calculator</string>
+    <string name="button_text">Analyze</string>
+</resources>
